@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cappuccino Screen</string>
+    <string name="buy_now"> Buy Now</string>
+    <string name="small"> Small</string>
+    <string name="medium"> Medium</string>
+    <string name="large"> Large</string>
+    <string name="size"> Size</string>
+    <string name="about"> About</string>
+    <string name="cappuccino_description"> In comparison to a caffe latte, the perfect cappuccino has a more intense coffee flavor, as well as a rich, creamy layer of microfoam. Made with equal parts freshly pulled espresso, velvety steamed milk, and light milk foam, it offers a beautifully balanced and robust taste.</string>
+</resources>
